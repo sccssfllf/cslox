@@ -1,0 +1,14 @@
+/home/alex/RiderProjects/cslox/Tools/bin/Debug/net10.0/Tools
+/home/alex/RiderProjects/cslox/Tools/bin/Debug/net10.0/Tools.deps.json
+/home/alex/RiderProjects/cslox/Tools/bin/Debug/net10.0/Tools.runtimeconfig.json
+/home/alex/RiderProjects/cslox/Tools/bin/Debug/net10.0/Tools.dll
+/home/alex/RiderProjects/cslox/Tools/bin/Debug/net10.0/Tools.pdb
+/home/alex/RiderProjects/cslox/Tools/obj/Debug/net10.0/Tools.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/RiderProjects/cslox/Tools/obj/Debug/net10.0/Tools.AssemblyInfoInputs.cache
+/home/alex/RiderProjects/cslox/Tools/obj/Debug/net10.0/Tools.AssemblyInfo.cs
+/home/alex/RiderProjects/cslox/Tools/obj/Debug/net10.0/Tools.csproj.CoreCompileInputs.cache
+/home/alex/RiderProjects/cslox/Tools/obj/Debug/net10.0/Tools.dll
+/home/alex/RiderProjects/cslox/Tools/obj/Debug/net10.0/refint/Tools.dll
+/home/alex/RiderProjects/cslox/Tools/obj/Debug/net10.0/Tools.pdb
+/home/alex/RiderProjects/cslox/Tools/obj/Debug/net10.0/Tools.genruntimeconfig.cache
+/home/alex/RiderProjects/cslox/Tools/obj/Debug/net10.0/ref/Tools.dll

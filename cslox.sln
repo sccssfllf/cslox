@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cslox", "cslox\cslox.csproj", "{AC423412-789C-4FCE-975E-5F44285A4EF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{FA03D1AB-1744-4AC3-ACF3-26C2BA7514FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC423412-789C-4FCE-975E-5F44285A4EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC423412-789C-4FCE-975E-5F44285A4EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC423412-789C-4FCE-975E-5F44285A4EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC423412-789C-4FCE-975E-5F44285A4EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA03D1AB-1744-4AC3-ACF3-26C2BA7514FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA03D1AB-1744-4AC3-ACF3-26C2BA7514FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA03D1AB-1744-4AC3-ACF3-26C2BA7514FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA03D1AB-1744-4AC3-ACF3-26C2BA7514FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
