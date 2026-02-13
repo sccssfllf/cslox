@@ -1,0 +1,45 @@
+## --- Build Artifacts ---
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esults/
+
+## --- Visual Studio ---
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+# Upgrade log files
+Backup/
+UpgradeLog*.XML
+
+## --- VS Code ---
+.vscode/
+# Ignore everything in .vscode except the recommendations and tasks
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+## --- JetBrains Rider ---
+.idea/
+*.sln.iml
+
+## --- NuGet Packages ---
+# Most modern projects use PackageReference, but it's safe to keep this
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+## --- Operating System Files ---
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# macOS
+.DS_Store
+
+## --- Environment & Secrets ---
+*.env
+*.env.*
+appsettings.Development.json
+# Note: It's often better to keep appsettings.Development.json in git 
+# as a template, but avoid putting real secrets in it!

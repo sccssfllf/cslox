@@ -89,7 +89,7 @@ class Program
         foreach (string type in types)
         {
             string typeName = type.Split(':')[0].Trim();
-            writer.WriteLine($"         R Visit{typeName}{baseName}({typeName} {baseName.ToLower()});");
+            writer.WriteLine($"         R visit{typeName}{baseName}({typeName} {baseName.ToLower()});");
         }
         writer.WriteLine("      }");
     }
