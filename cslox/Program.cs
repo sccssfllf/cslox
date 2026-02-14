@@ -1,4 +1,5 @@
-﻿using static cslox.Lox;
+﻿using System;
+using static cslox.Lox;
 namespace cslox;
 
 class Program

@@ -1,4 +1,8 @@
-﻿namespace Tools;
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+
+namespace Tools;
 
 class Program
 {
