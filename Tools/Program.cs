@@ -14,10 +14,10 @@ class Program
 
         DefineAst(outputDir, "Expr", new List<string>
         {
-            "Binary         : Expr left, Token operator, Expr right",
+            "Binary         : Expr left, Token op, Expr right",
             "Grouping       : Expr expression",
             "Literal        : object value",
-            "Unary          : Token operator, Expr right"
+            "Unary          : Token op, Expr right"
         });
     }
     
@@ -89,7 +89,7 @@ class Program
         foreach (string type in types)
         {
             string typeName = type.Split(':')[0].Trim();
-            writer.WriteLine($"         R visit{typeName}{baseName}({typeName} {baseName.ToLower()});");
+            writer.WriteLine($"         R Visit{typeName}{baseName}({typeName} {baseName.ToLower()});");
         }
         writer.WriteLine("      }");
     }
